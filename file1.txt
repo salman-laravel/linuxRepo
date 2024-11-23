@@ -1,0 +1,4 @@
+Adding new changes to the file by machine1
+The end of the changes of machine1
+Pushing the file
+These changes are made from machine2
